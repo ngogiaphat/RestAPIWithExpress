@@ -1,5 +1,7 @@
 {
 	"compilerOptions": {
+		"target": "es6",
+    "strict": true,
 		"module": "NodeNext",
 		"moduleResolution": "node",
 		"baseUrl": "src",
